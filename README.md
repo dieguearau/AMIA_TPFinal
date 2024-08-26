@@ -1,5 +1,4 @@
-## Trabajo Final de Análisis Matemático para Inteligencia Artificial 
-## (AMIA - CEIA2024)
+## Trabajo Final de Análisis Matemático para Inteligencia Artificial (AMIA - CEIA 2024)
 
 Este repositorio contiene el notebook `AMIA_2024_TPfinal_LDA-QDA.ipynb`, el cual forma parte del Trabajo Práctico Final para el curso de Análisis Matemático para Inteligencia Artificial (2024), de la Carrera de Especialización en Inteligencia Artificial (CEIA - FIUBA).
 
